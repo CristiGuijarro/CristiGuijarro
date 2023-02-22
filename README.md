@@ -6,10 +6,6 @@
 🌱 I’m currently learning everything I can!
 👯 I’m looking to collaborate on open source evolutionary genomics projects
 
-### Summary Background
-
-I have covered many Bioinformatics areas, both niche and broad. Currently I work with human data, but more generically I am a bioinformatics software developer, and my roots and favourites land me in comparative genomics, particularly with regards to evolution in all of the tree of life
-
 ### Skills 
 
 <div style="display: flex;">
