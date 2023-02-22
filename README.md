@@ -7,6 +7,7 @@
 👯 I’m looking to collaborate on open source evolutionary genomics projects
 
 ### Skills 
+  _Not a fully comprehensive list, we Bioinformaticians are Jacks of all Trades - we are exposed to many tools and materials_
 
 <div style="display: flex;">
   <div style="width: 50%;">
