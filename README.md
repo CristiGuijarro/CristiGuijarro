@@ -22,15 +22,15 @@
 
 #### Worklow Managers
 
-<img src="https://www.nextflow.io/img/nextflow2014_no-bg.png" title="Nextflow" height=50 width=90 /> <img src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4" title="Snakemake" height=50 width=50 /> [**e-Hive**](https://github.com/Ensembl/ensembl-hive#ehive)
+<img src="https://www.nextflow.io/img/nextflow2014_no-bg.png" title="Nextflow" height=40 width=120 /> <img src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4" title="Snakemake" height=50 width=50 /> [**e-Hive**](https://github.com/Ensembl/ensembl-hive#ehive)
 
 </div>
 
 <div style="width: 50%;">
 
-#### Database Systems
+#### Ambiguous tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" height=50 width=50 />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" height=50 width=50 />
 
 #### Version control tools
 
@@ -38,7 +38,7 @@
 
 #### Dev Ops
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Conda" height=50 width=50 />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 /> <img src="https://docs.crc.nd.edu/_images/conda.png" title="Conda" height=50 width=80 />
 
 #### Cloud & Workload managers
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" height=50 width=50 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1200px-Slurm_logo.svg.png" title="Slurm" height=50 width=50 /> **SGE** <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/6391a864-1394-4296-9524-784ee59c6af2/UploadedImages/SpectrumComputeFamily_LSF-HorizontalColorWhite.png" title="LSF" height=50 width=120 />
