@@ -2,9 +2,11 @@
 
 ### About me
 
-🔭 I’m currently working on pipeline development
-🌱 I’m currently learning everything I can!
-👯 I’m looking to collaborate on open source evolutionary genomics projects
+🔭 Currently working on pipeline development and forging best practices
+
+🌱 Currently learning everything I can!
+
+👯 I am looking to collaborate on open source evolutionary genomics projects for fun
 
 ### Skills 
   _Not a fully comprehensive list, we Bioinformaticians are Jacks of all Trades - we are exposed to many tools and materials_
