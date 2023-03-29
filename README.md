@@ -22,7 +22,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" height=50 width=50 />
 
-#### Worklow Managers
+#### Workflow Managers
 
 <img src="https://www.nextflow.io/img/nextflow2014_no-bg.png" title="Nextflow" height=40 width=120 /> <img src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4" title="Snakemake" height=50 width=50 /> [**e-Hive**](https://github.com/Ensembl/ensembl-hive#ehive)
 
