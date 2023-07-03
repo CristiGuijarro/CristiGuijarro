@@ -42,6 +42,11 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 /> <img src="https://docs.crc.nd.edu/_images/conda.png" title="Conda" height=50 width=80 />
 
+
+#### CI/CD
+
+<img src="https://www.svgrepo.com/show/374136/travis.svg" title="Travis" height=50 width=50 /> <img src="https://www.svgrepo.com/show/306098/githubactions.svg" title="GitHub Actions" height=50 width=50 />
+
 #### Cloud & Workload managers
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" height=50 width=50 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1200px-Slurm_logo.svg.png" title="Slurm" height=50 width=50 /> **SGE** <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/6391a864-1394-4296-9524-784ee59c6af2/UploadedImages/SpectrumComputeFamily_LSF-HorizontalColorWhite.png" title="LSF" height=50 width=120 />
 
