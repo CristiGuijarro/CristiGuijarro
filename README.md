@@ -1,15 +1,7 @@
 <div align="center">
 
-### About me
-
-🔭 Currently working on pipeline development and forging best practices
-
-🌱 Currently learning everything I can!
-
-👯 I am looking to collaborate on open source evolutionary genomics projects for fun
-
 ### Skills 
-  _Not a fully comprehensive list, we Bioinformaticians are Jacks of all Trades - we are exposed to many tools and materials_
+  _Not a fully comprehensive list, we Bioinformaticians are Jacks of all Trades (and masters of some!)- we are exposed to many tools and materials_
 
 <div style="display: flex;">
   <div style="width: 50%;">
@@ -40,16 +32,18 @@
 
 #### Dev Ops
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 /> <img src="https://docs.crc.nd.edu/_images/conda.png" title="Conda" height=50 width=80 />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 /> <img src="https://docs.crc.nd.edu/_images/conda.png" title="Conda" height=50 width=80 /> 
 
 
 #### CI/CD
 
-<img src="https://www.svgrepo.com/show/374136/travis.svg" title="Travis" height=50 width=50 /> <img src="https://www.svgrepo.com/show/306098/githubactions.svg" title="GitHub Actions" height=50 width=50 />
+<img src="https://www.svgrepo.com/show/374136/travis.svg" title="Travis" height=50 width=50 /> <img src="https://www.svgrepo.com/show/306098/githubactions.svg" title="GitHub Actions" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" height=50 width=50 />
 
 #### Cloud & Workload managers
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" height=50 width=50 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1200px-Slurm_logo.svg.png" title="Slurm" height=50 width=50 /> **SGE** <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/6391a864-1394-4296-9524-784ee59c6af2/UploadedImages/SpectrumComputeFamily_LSF-HorizontalColorWhite.png" title="LSF" height=50 width=120 />
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" height=50 width=50 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1200px-Slurm_logo.svg.png" title="Slurm" height=50 width=50 /> **SGE** <img src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/6391a864-1394-4296-9524-784ee59c6af2/UploadedImages/SpectrumComputeFamily_LSF-HorizontalColorWhite.png" title="LSF" height=50 width=120 /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" height=50 width=50 />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CristiGuijarro&hide_border=true&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
   </div>
 
-Nowadays you can find me also on GitLab: <img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" title="GitLab" height=20 width=20 /> https://gitlab.com/CristiGuijarroClarke
+Nowadays you can find me also on GitLab: <img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" title="GitLab" height=30 width=30 /> https://gitlab.com/CristiGuijarroClarke
