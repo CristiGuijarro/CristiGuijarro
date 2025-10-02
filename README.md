@@ -21,6 +21,10 @@
 
 <div style="width: 50%;">
 
+#### Fun Frameworks
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="PyTest" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" height=50 width=50 />
+
 #### Ambiguous tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" height=50 width=50 />
@@ -35,7 +39,7 @@
 
 #### CI/CD
 
-<img src="https://www.svgrepo.com/show/374136/travis.svg" title="Travis" height=50 width=50 /> <img src="https://www.svgrepo.com/show/306098/githubactions.svg" title="GitHub Actions" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS CloudFormation" height=50 width=50 />
+<img src="https://www.svgrepo.com/show/374136/travis.svg" title="Travis" height=50 width=50 /> <img src="https://www.svgrepo.com/show/306098/githubactions.svg" title="GitHub Actions" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS CloudFormation" height=50 width=50 /> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="AzureDevOps" height=50 width=50 /> 
 
 #### Cloud & Workload managers
 
